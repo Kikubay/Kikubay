@@ -22,6 +22,7 @@
   </table>
 </div>
 
+<!--
 <h2 align="center">𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h2>
 <div align="center">
   <h3>
@@ -38,6 +39,7 @@
     <i>A zero-setup AI workflow builder that runs entirely in your browser via WebGPU. Drag, wire, and export as a single offline <code>.html</code> file. No backend, no telemetry.</i>
   </p>
 </div>
+-->
 
 <h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
 <p align="center">
